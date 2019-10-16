@@ -1,5 +1,7 @@
 {
-  "dependencies": {},
+  "dependencies": {
+      "@react-native-community/viewpager": "2.0.1"
+  },
   "description": "Swiper component for React Native.",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
